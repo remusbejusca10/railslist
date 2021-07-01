@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+WE DELETED THE FIRST PARAGRAPH OF THIS README FILE AND WROTE THIS INSTEAD!
 
 Things you may want to cover:
 
